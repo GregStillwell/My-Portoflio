@@ -13,7 +13,7 @@
 
   .columns  {
     width: 600px;
-    float: left;
+    float: right;
   }
 
   h2  {
@@ -22,4 +22,12 @@
     margin-top: 70px;
     margin-bottom: auto;
     font-size: 40px;
+  }
+
+  h3  {
+    font-size: 25px;
+  }
+
+  .highlight  {
+    color: #c3000e
   }
