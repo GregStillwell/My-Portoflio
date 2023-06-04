@@ -8,9 +8,18 @@
   h1  {
     text-align: center;
     font-size: 60px;
+    display: block;
   }
 
   .columns  {
     width: 600px;
     float: left;
+  }
+
+  h2  {
+    display: block;
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: auto;
+    font-size: 40px;
   }
