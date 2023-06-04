@@ -1,4 +1,4 @@
-# _{Application Name}_
+# 
 Greg Stillwell
 #### By _**{List of contributors}**_
 Greg Stillwell
