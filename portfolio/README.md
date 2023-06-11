@@ -13,7 +13,7 @@ This is my portfolio on what i can do with html and css
 This is my portflio of what i can do at the moment and how i can grow to be better 
 
 ## Setup/Installation Requirements
-
+* 
 * clone this repository
 * find where the file is
 * open it
